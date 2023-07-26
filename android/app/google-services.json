@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603129633172",
+    "project_id": "crud-session-70009",
+    "storage_bucket": "crud-session-70009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603129633172:android:97ebc16f4c0250119ad781",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603129633172-qrmoqbpnh15vijqfpam20082llap5hon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0RiYUTvVVN5c1iECCGmjXOsp2oe9bWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603129633172-qrmoqbpnh15vijqfpam20082llap5hon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
